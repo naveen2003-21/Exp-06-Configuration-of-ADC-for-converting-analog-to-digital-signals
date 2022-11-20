@@ -1,8 +1,8 @@
 # Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals
 
 
-## Name :	S.Naveen Kumar
-## Roll no: 212221240033
+## Name :   A.Naveen Kumar
+## Roll no: 212221240032
   
   
 ## Aim:
